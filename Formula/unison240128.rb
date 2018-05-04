@@ -1,4 +1,4 @@
-class UnisonAT240 < Formula
+class Unison240128 < Formula
   desc "Unison file synchronizer"
   homepage "https://www.cis.upenn.edu/~bcpierce/unison/"
   url "https://www.seas.upenn.edu/~bcpierce/unison/download/releases/unison-2.40.128/unison-2.40.128.tar.gz"
